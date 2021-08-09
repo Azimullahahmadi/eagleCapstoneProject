@@ -3992,3 +3992,234 @@
 2021-08-08 21:42:26,658 [main] INFO logger_File - User Clicked on MacBook Pro
 2021-08-08 21:42:26,905 [main] INFO logger_File - User should see price Tag
 2021-08-08 21:42:32,037 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 10:00:14,688 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 10:00:39,059 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:00:39,342 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:00:40,206 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:00:41,840 [main] INFO logger_File - User Clicked on MacBook item
+2021-08-09 10:00:42,096 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:00:43,703 [main] INFO logger_File - User should see a message
+2021-08-09 10:00:46,949 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-08-09 10:00:46,970 [main] INFO logger_File - Scenario Product Comparison Started
+2021-08-09 10:00:51,180 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:00:51,302 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:00:51,675 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:00:51,784 [main] INFO logger_File - user clicked on comparison icon on MacBook
+2021-08-09 10:00:56,960 [main] INFO logger_File - User Clicked on product comparison icon on MacBook Air
+2021-08-09 10:00:57,012 [main] INFO logger_File - User Should see a success message
+2021-08-09 10:00:57,625 [main] INFO logger_File - User clicked on Product comparison Link
+2021-08-09 10:01:08,113 [main] INFO logger_File - User should see Product coparison chart
+2021-08-09 10:01:10,562 [main] INFO logger_File - Product Comparison   passed
+2021-08-09 10:01:10,579 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-08-09 10:01:15,446 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:01:15,601 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:01:16,096 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:01:21,271 [main] INFO logger_File - User Clicked On Hearth icon
+2021-08-09 10:01:21,755 [main] INFO logger_File - User Should get a Message
+2021-08-09 10:01:22,688 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-08-09 10:01:22,706 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 10:01:27,489 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:01:27,616 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:01:28,101 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:01:29,876 [main] INFO logger_File - User Clicked on MacBook Pro
+2021-08-09 10:01:30,136 [main] INFO logger_File - User should see price Tag
+2021-08-09 10:01:31,077 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 10:02:53,415 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 10:03:00,256 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:03:00,355 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:03:00,734 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:03:02,224 [main] INFO logger_File - User Clicked on MacBook item
+2021-08-09 10:03:02,369 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:03:02,883 [main] INFO logger_File - User should see a message
+2021-08-09 10:03:03,109 [main] INFO logger_File - User should see a meessage 
+2021-08-09 10:03:03,174 [main] INFO logger_File - User Clicked on Cart Option
+2021-08-09 10:03:03,261 [main] INFO logger_File - User Clicked on Red X button
+2021-08-09 10:03:08,711 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-08-09 10:03:08,729 [main] INFO logger_File - Scenario Product Comparison Started
+2021-08-09 10:03:13,654 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:03:13,760 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:03:14,706 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:03:14,828 [main] INFO logger_File - user clicked on comparison icon on MacBook
+2021-08-09 10:03:19,934 [main] INFO logger_File - User Clicked on product comparison icon on MacBook Air
+2021-08-09 10:03:19,983 [main] INFO logger_File - User Should see a success message
+2021-08-09 10:03:20,469 [main] INFO logger_File - User clicked on Product comparison Link
+2021-08-09 10:03:30,816 [main] INFO logger_File - User should see Product coparison chart
+2021-08-09 10:03:31,552 [main] INFO logger_File - Product Comparison   passed
+2021-08-09 10:03:31,566 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-08-09 10:03:36,765 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:03:36,870 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:03:37,495 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:03:42,617 [main] INFO logger_File - User Clicked On Hearth icon
+2021-08-09 10:03:43,242 [main] INFO logger_File - User Should get a Message
+2021-08-09 10:03:44,076 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-08-09 10:03:44,091 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 10:03:48,458 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:03:48,578 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:03:48,973 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:03:50,143 [main] INFO logger_File - User Clicked on MacBook Pro
+2021-08-09 10:03:50,374 [main] INFO logger_File - User should see price Tag
+2021-08-09 10:03:55,537 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 10:09:31,574 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-08-09 10:09:37,574 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:09:42,709 [main] INFO logger_File - user clicked on currency
+2021-08-09 10:09:48,074 [main] INFO logger_File - User Chosed Euro from dropdown
+2021-08-09 10:09:53,662 [main] INFO logger_File - Currency value changed
+2021-08-09 10:09:54,694 [main] INFO logger_File - User verify currency values change   passed
+2021-08-09 10:09:54,712 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-08-09 10:10:00,224 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:10:05,745 [main] INFO logger_File - user clicked on shopping cart
+2021-08-09 10:10:06,964 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-08-09 10:16:31,213 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-08-09 10:16:37,915 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:16:43,059 [main] INFO logger_File - user clicked on currency
+2021-08-09 10:16:50,895 [main] INFO logger_File - User verify currency values change   failed
+2021-08-09 10:16:50,904 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-08-09 10:16:55,985 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:17:01,808 [main] INFO logger_File - user clicked on shopping cart
+2021-08-09 10:17:02,938 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-08-09 10:17:53,838 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-08-09 10:18:00,667 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:18:05,953 [main] INFO logger_File - user clicked on currency
+2021-08-09 10:18:11,270 [main] INFO logger_File - User Chosed Euro from dropdown
+2021-08-09 10:18:16,801 [main] INFO logger_File - Currency value changed
+2021-08-09 10:18:17,752 [main] INFO logger_File - User verify currency values change   passed
+2021-08-09 10:18:17,793 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-08-09 10:18:24,241 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:18:31,211 [main] INFO logger_File - user clicked on shopping cart
+2021-08-09 10:18:32,285 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-08-09 10:43:43,365 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-08-09 10:43:52,622 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:43:54,803 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:43:56,018 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:44:01,513 [main] INFO logger_File - user opened Desktop Page
+2021-08-09 10:44:02,643 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-08-09 10:44:02,649 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-08-09 10:44:08,780 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:44:09,686 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:44:10,193 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:44:10,308 [main] INFO logger_File - User Clicked on ADD TO CART Option
+2021-08-09 10:44:12,584 [main] INFO logger_File - User selected Quantity 1
+2021-08-09 10:44:12,691 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:44:19,319 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-08-09 10:44:19,331 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-08-09 10:44:23,844 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:44:24,611 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:44:25,104 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:44:25,196 [main] INFO logger_File - User Cliked On Add to cart Canon 5D
+2021-08-09 10:44:26,959 [main] INFO logger_File - User selected Red Color from dropdown
+2021-08-09 10:44:27,213 [main] INFO logger_File - User selected Quantity 1
+2021-08-09 10:44:27,327 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:44:32,594 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-08-09 10:44:32,611 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-08-09 10:44:36,417 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:44:37,158 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:44:37,639 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:44:38,759 [main] INFO logger_File - User Clicked ON Canon EOS 5D item
+2021-08-09 10:44:38,875 [main] INFO logger_File - User Clicked On Write Review
+2021-08-09 10:44:54,385 [main] INFO logger_File - user have filled out the form
+2021-08-09 10:44:54,480 [main] INFO logger_File - user clicked on continue button
+2021-08-09 10:45:00,794 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-08-09 10:47:24,144 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-08-09 10:47:33,277 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:47:34,874 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:47:35,913 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:47:41,290 [main] INFO logger_File - user opened Desktop Page
+2021-08-09 10:47:42,110 [main] INFO logger_File - User verify all items are present in Desktops tab   passed
+2021-08-09 10:47:42,116 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-08-09 10:47:47,856 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:47:48,680 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:47:49,238 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:47:49,322 [main] INFO logger_File - User Clicked on ADD TO CART Option
+2021-08-09 10:47:51,525 [main] INFO logger_File - User selected Quantity 1
+2021-08-09 10:47:51,630 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:48:01,949 [main] INFO logger_File - User add HP LP 3065  from Desktops tab to the cart   passed
+2021-08-09 10:48:01,963 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-08-09 10:48:06,036 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:48:06,849 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:48:07,360 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:48:07,461 [main] INFO logger_File - User Cliked On Add to cart Canon 5D
+2021-08-09 10:48:09,045 [main] INFO logger_File - User selected Red Color from dropdown
+2021-08-09 10:48:09,384 [main] INFO logger_File - User selected Quantity 1
+2021-08-09 10:48:09,494 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:48:14,719 [main] INFO logger_File - User have added the item to shopping cart
+2021-08-09 10:48:19,746 [main] INFO logger_File - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-08-09 10:48:19,763 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-08-09 10:48:23,769 [main] INFO logger_File - Retail Website is opened
+2021-08-09 10:48:24,567 [main] INFO logger_File - user clicked on destop
+2021-08-09 10:48:25,071 [main] INFO logger_File - User clicked on ShowAllDestop
+2021-08-09 10:48:26,693 [main] INFO logger_File - User Clicked ON Canon EOS 5D item
+2021-08-09 10:48:26,828 [main] INFO logger_File - User Clicked On Write Review
+2021-08-09 10:48:42,366 [main] INFO logger_File - user have filled out the form
+2021-08-09 10:48:42,452 [main] INFO logger_File - user clicked on continue button
+2021-08-09 10:48:48,948 [main] INFO logger_File - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-08-09 10:50:34,001 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 10:50:42,650 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:50:42,805 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:50:43,764 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:50:45,058 [main] INFO logger_File - User Clicked on MacBook item
+2021-08-09 10:50:45,262 [main] INFO logger_File - user clicked add to Cart Button
+2021-08-09 10:50:45,813 [main] INFO logger_File - User should see a message
+2021-08-09 10:50:46,083 [main] INFO logger_File - User should see a meessage 
+2021-08-09 10:50:46,160 [main] INFO logger_File - User Clicked on Cart Option
+2021-08-09 10:50:46,334 [main] INFO logger_File - User Clicked on Red X button
+2021-08-09 10:50:51,751 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-08-09 10:50:51,766 [main] INFO logger_File - Scenario Product Comparison Started
+2021-08-09 10:50:55,486 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:50:55,600 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:50:56,231 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:50:56,349 [main] INFO logger_File - user clicked on comparison icon on MacBook
+2021-08-09 10:51:01,486 [main] INFO logger_File - User Clicked on product comparison icon on MacBook Air
+2021-08-09 10:51:01,522 [main] INFO logger_File - User Should see a success message
+2021-08-09 10:51:01,979 [main] INFO logger_File - User clicked on Product comparison Link
+2021-08-09 10:51:12,362 [main] INFO logger_File - User should see Product coparison chart
+2021-08-09 10:51:13,121 [main] INFO logger_File - Product Comparison   passed
+2021-08-09 10:51:13,135 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-08-09 10:51:17,170 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:51:17,335 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:51:18,060 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:51:23,201 [main] INFO logger_File - User Clicked On Hearth icon
+2021-08-09 10:51:23,748 [main] INFO logger_File - User Should get a Message
+2021-08-09 10:51:24,522 [main] INFO logger_File - Adding an item to Wish list   passed
+2021-08-09 10:51:24,533 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 10:51:29,832 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:51:29,988 [main] INFO logger_File - User Clicked on Laptops And NoteBook
+2021-08-09 10:51:31,265 [main] INFO logger_File - User Clicked on ShowAllLaptopsAndNotebook
+2021-08-09 10:51:32,726 [main] INFO logger_File - User Clicked on MacBook Pro
+2021-08-09 10:51:32,989 [main] INFO logger_File - User should see price Tag
+2021-08-09 10:51:38,141 [main] INFO logger_File - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 10:52:08,114 [main] INFO logger_File - Scenario User verify currency values change Started
+2021-08-09 10:52:13,529 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:52:18,677 [main] INFO logger_File - user clicked on currency
+2021-08-09 10:52:24,010 [main] INFO logger_File - User Chosed Euro from dropdown
+2021-08-09 10:52:29,439 [main] INFO logger_File - Currency value changed
+2021-08-09 10:52:30,307 [main] INFO logger_File - User verify currency values change   passed
+2021-08-09 10:52:30,314 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2021-08-09 10:52:34,943 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:52:40,392 [main] INFO logger_File - user clicked on shopping cart
+2021-08-09 10:52:41,625 [main] INFO logger_File - User empty Shopping cart message displays   passed
+2021-08-09 10:54:22,761 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-08-09 10:54:30,242 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:54:30,391 [main] INFO logger_File - User clicked on MyAccount
+2021-08-09 10:54:30,962 [main] INFO logger_File - User Clicked on Login
+2021-08-09 10:54:31,161 [main] INFO logger_File - user entered email
+2021-08-09 10:54:31,302 [main] INFO logger_File - user entered password
+2021-08-09 10:54:32,256 [main] INFO logger_File - user clicked on login button
+2021-08-09 10:54:37,466 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-08-09 10:54:37,844 [main] INFO logger_File - User Clicked on Edit your affiliate information Link
+2021-08-09 10:54:38,084 [main] INFO logger_File - User Clicked on Bank Transfer radion Button
+2021-08-09 10:54:38,748 [main] INFO logger_File - User Filled bank information with below information
+2021-08-09 10:54:39,084 [main] INFO logger_File - User Clicked on Continue Button
+2021-08-09 10:54:39,315 [main] INFO logger_File - user Account has been created
+2021-08-09 10:54:40,194 [main] INFO logger_File - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-08-09 10:55:05,352 [main] INFO logger_File - Scenario Edit your account Information Started
+2021-08-09 10:55:11,451 [main] INFO logger_File - User Clicked on Retail Website
+2021-08-09 10:55:11,554 [main] INFO logger_File - User clicked on MyAccount
+2021-08-09 10:55:11,939 [main] INFO logger_File - User Clicked on Login
+2021-08-09 10:55:12,116 [main] INFO logger_File - user entered email
+2021-08-09 10:55:12,265 [main] INFO logger_File - user entered password
+2021-08-09 10:55:12,918 [main] INFO logger_File - user clicked on login button
+2021-08-09 10:55:18,069 [main] INFO logger_File - user logged to myAccount Dashboard
+2021-08-09 10:55:18,653 [main] INFO logger_File - User Clicked on Edit your Account Information
+2021-08-09 10:55:24,939 [main] INFO logger_File - user clicked on continue button
+2021-08-09 10:55:25,160 [main] INFO logger_File - Your account has been successfully updated
+2021-08-09 10:55:27,579 [main] INFO logger_File - Edit your account Information   passed

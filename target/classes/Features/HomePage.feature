@@ -8,7 +8,7 @@ Given User is on Retail website
 Scenario: User verify currency values change
 
 When User click on Currency 
-And User Chose Euro from dropdown 
+And User Chose 'Euro' from dropdown 
 Then currency value should change to Euro
 
 

@@ -36,20 +36,13 @@ public void clickOncurrency() {
 
 }
 
-public void selectEuro() {
+public void selectEuro(String currecny) {
 	
+	WebDriverUtility.enterValue(euro, currecny);
 	
 	
 		
-		
-		
-		if(!euro.isSelected()) {
-			WebDriverUtility.clickOnElement(euro);
-		System.out.println("it is failed");
-	}else {
-		System.out.println("passed");
-	}
-	
+
 	
 	
 }

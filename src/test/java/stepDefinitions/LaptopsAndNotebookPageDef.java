@@ -64,8 +64,8 @@ public void user_should_see_a_message_Success_you_have_addes_MacBook_to_your_sho
 	
 }
 
-@And("^User should see '1' tems-'602.00' showed to the cart$")
-public void user_should_see_item_s_showed_to_the_cart() {
+@And("^User should see '(.+)' showed to the cart$")
+public void user_should_see_item_s_showed_to_the_cart(String Message) {
 	String expectedMessage="1 item(s) - $602.00";
 	String actualmessage = Laptop.showItemsMessage();
 	Assert.assertEquals(actualmessage, expectedMessage);

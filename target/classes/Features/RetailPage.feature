@@ -4,7 +4,8 @@ Feature:    for this feature you have to have an existing account
 
 
 Background:
-#Scenario: Login to MyAccount
+
+
 Given User is on Retail website 
 And User click  on MyAccount
 When  User click on Login 

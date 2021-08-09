@@ -23,11 +23,7 @@ public class DesktopPageDef extends Base {
 
 	DestopsPageObject Desktop= new DestopsPageObject();
 	
-//	@Given("^User is on Retail Website$")
-//	public void user_is_on_Retail_Website() {
-//		openBrowser();
-//		logger.info("Retail Website is open");
-//	}
+
 	
 	@When("^User click on Desktops tab$")
 	public void user_click_on_Desktop() {

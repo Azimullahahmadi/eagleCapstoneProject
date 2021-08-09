@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		features =".\\src\\test\\resource\\Features",// features tells cucumber options where feature files are located
 		glue = "stepDefinitions",
-		tags = {"@LaptopsPageComplete"},
+		tags = {"@information"},
 		//glue tells cucubmer options where step Definition classes located
 		dryRun= false, // dry run if sets to false checks if all steps in feature files has step
 		monochrome = true, // if set to true, makes the console output readable.

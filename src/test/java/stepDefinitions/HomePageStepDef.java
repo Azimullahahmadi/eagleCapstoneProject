@@ -110,11 +110,11 @@ public class HomePageStepDef extends Base {
 		
 	}
 	
-	@And("^User Chose Euro from dropdown$")
-	public void user_chose_Euro_from_dropdown() throws InterruptedException {
+	@And("^User Chose (.+) from dropdown$")
+	public void user_chose_Euro_from_dropdown(String currency) throws InterruptedException {
 		//WebDriverUtility.wait(5000);
 		Thread.sleep(5000);
-		home.selectEuro();
+		home.selectEuro(currency);
 		logger.info("User Chosed Euro from dropdown");
 		
 	}
@@ -122,7 +122,7 @@ public class HomePageStepDef extends Base {
 	@Then("^currency value should change to Euro$")
 	public void currency_value_should_change_to_Euro() throws InterruptedException {
 		Thread.sleep(5000);
-		home.validate();
+		
 		WebDriverUtility.screenShot();
 		logger.info("Currency value changed");
 	}

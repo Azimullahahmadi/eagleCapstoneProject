@@ -153,6 +153,7 @@ private WebElement priceTagmessage;
 	
 	public void showTable() {
 		WebDriverUtility.wait(5000);
+		WebDriverUtility.isElementDisplayed(table);
 		if(table.isDisplayed()){
 			System.out.println("passed");
 		}else {
